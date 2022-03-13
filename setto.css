@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+ background-color: #ffa500;/*オレンジ*/
+ text-align: center;/*文字を真ん中に配置する*/
+}
+
+img{
+ max-width: 1080px
+}
+.title{
+ font-size: 40px;
+ color: #ffffe0;/*薄い黄色*/
+ margin-top: 60px;
+}
+
+.main{
+ font-size: 30px;
+ margin-top: 60px;
+}
+
+.coment{
+ font-size: 20px;
+ margin-top: 80px;
+ margin-left: 100px;
+ margin-bottom: 20px;
+}
